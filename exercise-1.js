@@ -1,6 +1,5 @@
-let personName = 'Paul';
-
 function canPlay() {
+  let personName = 'Paul'
   if (true) {
     let personName = 'Paul';
   }
